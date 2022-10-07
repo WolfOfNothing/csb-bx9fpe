@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://wolfofnothing.github.io/csb-bx9fpe/static/css/main.4c5402cd.chunk.css",
+    "main.js": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/main.7f769752.chunk.js",
+    "main.js.map": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/main.7f769752.chunk.js.map",
+    "runtime-main.js": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/runtime-main.2ec5fbbc.js",
+    "runtime-main.js.map": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/runtime-main.2ec5fbbc.js.map",
+    "static/js/2.45b916a6.chunk.js": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/2.45b916a6.chunk.js",
+    "static/js/2.45b916a6.chunk.js.map": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/2.45b916a6.chunk.js.map",
+    "static/js/3.e9890966.chunk.js": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/3.e9890966.chunk.js",
+    "static/js/3.e9890966.chunk.js.map": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/3.e9890966.chunk.js.map",
+    "static/js/4.91bcd175.chunk.js": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/4.91bcd175.chunk.js",
+    "static/js/4.91bcd175.chunk.js.map": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/4.91bcd175.chunk.js.map",
+    "index.html": "https://wolfofnothing.github.io/csb-bx9fpe/index.html",
+    "static/css/main.4c5402cd.chunk.css.map": "https://wolfofnothing.github.io/csb-bx9fpe/static/css/main.4c5402cd.chunk.css.map",
+    "static/js/2.45b916a6.chunk.js.LICENSE.txt": "https://wolfofnothing.github.io/csb-bx9fpe/static/js/2.45b916a6.chunk.js.LICENSE.txt",
+    "static/media/AION Logo.eb6db6f2.svg": "https://wolfofnothing.github.io/csb-bx9fpe/static/media/AION Logo.eb6db6f2.svg",
+    "static/media/CV.4215eaab.svg": "https://wolfofnothing.github.io/csb-bx9fpe/static/media/CV.4215eaab.svg",
+    "static/media/Insta.0a43bea6.svg": "https://wolfofnothing.github.io/csb-bx9fpe/static/media/Insta.0a43bea6.svg",
+    "static/media/fb.d14e51c4.svg": "https://wolfofnothing.github.io/csb-bx9fpe/static/media/fb.d14e51c4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ec5fbbc.js",
+    "static/js/2.45b916a6.chunk.js",
+    "static/css/main.4c5402cd.chunk.css",
+    "static/js/main.7f769752.chunk.js"
+  ]
+}
